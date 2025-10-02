@@ -30,4 +30,4 @@ print(anomaly_scores[:5])
 >>> [0.4932361  0.77853699 1.22404504 0.71898946 0.52439317]
 ```
 
-[]()
+![Demo images](https://github.com/TQCB/nomad/blob/main/assets/demo_image.png)
